@@ -27,11 +27,12 @@ make create
 
 select hello world app
 
+make run
+
 TADA! you have a running hello world wave app now! :)
 
 
 # HOW TO DEPLOY
-first, return to parent directory with cd ../
 
 make zip 
 
