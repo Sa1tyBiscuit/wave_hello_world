@@ -23,9 +23,7 @@ Description = "Show a card to the user explaining this is my first app."
 [Runtime]
 Module = "src.app"
 
-cd src
-
-wave init 
+make create 
 
 select hello world app
 
